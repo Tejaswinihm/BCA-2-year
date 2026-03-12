@@ -17,4 +17,3 @@ do
 done
 
 
-out put:
